@@ -36,6 +36,7 @@ Computer vision is computer sees and detects.
   - With camera
   - Will not detect the movement of small objects
   - With camera
+  
  ![motion detection](https://user-images.githubusercontent.com/73308365/119638226-1f1a1a00-be1f-11eb-83ca-4bab44590d33.gif)
  
   
